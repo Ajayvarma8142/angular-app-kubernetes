@@ -7,8 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e",
-    "sonar": "sonar-scanner"
+    "e2e": "ng e2e"
     
   },
   "private": true,
@@ -46,6 +45,5 @@
     "protractor": "~5.3.0",
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1"
-    "sonar-scanner": "4.2.0.1873"
   }
 }
